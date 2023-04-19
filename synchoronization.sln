@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "synchoronization", "synchoronization\synchoronization.vcxproj", "{90535F44-A6C1-4465-8D76-9AD06DF538CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90535F44-A6C1-4465-8D76-9AD06DF538CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90535F44-A6C1-4465-8D76-9AD06DF538CB}.Debug|Win32.Build.0 = Debug|Win32
+		{90535F44-A6C1-4465-8D76-9AD06DF538CB}.Release|Win32.ActiveCfg = Release|Win32
+		{90535F44-A6C1-4465-8D76-9AD06DF538CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
